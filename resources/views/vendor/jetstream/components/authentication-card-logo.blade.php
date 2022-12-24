@@ -1,0 +1,1 @@
+<img src="{{ asset('img/home/CAZAMEDlogo-07.png') }}" alt="" style="width:500px;">
